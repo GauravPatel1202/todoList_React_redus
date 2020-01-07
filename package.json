@@ -18,5 +18,15 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravPatel1202/todoList_React_redus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravPatel1202/todoList_React_redus/issues"
+  },
+  "homepage": "https://github.com/GauravPatel1202/todoList_React_redus#readme"
 }
